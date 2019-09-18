@@ -3,6 +3,7 @@ public class GitTest {
         System.out.println("1");
         System.out.println("new 2");
         System.out.println("new 6");
+        System.out.println("new 7");
 
     }
 }
